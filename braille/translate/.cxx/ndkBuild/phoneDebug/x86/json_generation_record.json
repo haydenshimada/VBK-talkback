@@ -2,21 +2,105 @@
   {
     "level": "INFO",
     "message": "Start JSON generation. Platform version: 23 min SDK version: x86",
-    "file": "/home/hayade/project/VBK-talkback/braille/translate/src/phone/jni/Android.mk",
+    "file": "/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/src/phone/jni/Android.mk",
     "tag": "phoneDebug|x86",
     "diagnosticCode": "UNKNOWN"
   },
   {
     "level": "INFO",
-    "message": "JSON \u0027/home/hayade/project/VBK-talkback/braille/translate/.cxx/ndkBuild/phoneDebug/x86/android_gradle_build.json\u0027 was up-to-date",
-    "file": "/home/hayade/project/VBK-talkback/braille/translate/src/phone/jni/Android.mk",
+    "message": "rebuilding JSON /home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/.cxx/ndkBuild/phoneDebug/x86/android_gradle_build.json due to:",
+    "file": "/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/src/phone/jni/Android.mk",
+    "tag": "phoneDebug|x86",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/src/phone/jni/Android.mk",
+    "tag": "phoneDebug|x86",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "- a dependent build file changed",
+    "file": "/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/src/phone/jni/Android.mk",
+    "tag": "phoneDebug|x86",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "  - /home/hayade/project/VBK-talkback/braille/translate/src/phone/jni/Android.mk",
+    "file": "/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/src/phone/jni/Android.mk",
+    "tag": "phoneDebug|x86",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "  - /home/hayade/project/VBK-talkback/braille/translate/src/phone/jni/Application.mk",
+    "file": "/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/src/phone/jni/Android.mk",
+    "tag": "phoneDebug|x86",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "removing stale contents from \u0027/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/.cxx/ndkBuild/phoneDebug/x86\u0027",
+    "file": "/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/src/phone/jni/Android.mk",
+    "tag": "phoneDebug|x86",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/.cxx/ndkBuild/phoneDebug/x86\u0027",
+    "file": "/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/src/phone/jni/Android.mk",
+    "tag": "phoneDebug|x86",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "executing ndkBuild Executable : /home/thivux/Android/Sdk/ndk/21.4.7075529/ndk-build\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003d/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/src/phone/jni/Android.mk\nNDK_APPLICATION_MK\u003d/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/src/phone/jni/Application.mk\nAPP_ABI\u003dx86\nNDK_ALL_ABIS\u003dx86\nNDK_DEBUG\u003d1\nAPP_PLATFORM\u003dandroid-23\nNDK_OUT\u003d/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/build/intermediates/ndkBuild/phoneDebug/obj\nNDK_LIBS_OUT\u003d/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/build/intermediates/ndkBuild/phoneDebug/lib\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
+    "file": "/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/src/phone/jni/Android.mk",
+    "tag": "phoneDebug|x86",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Executable : /home/thivux/Android/Sdk/ndk/21.4.7075529/ndk-build\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003d/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/src/phone/jni/Android.mk\nNDK_APPLICATION_MK\u003d/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/src/phone/jni/Application.mk\nAPP_ABI\u003dx86\nNDK_ALL_ABIS\u003dx86\nNDK_DEBUG\u003d1\nAPP_PLATFORM\u003dandroid-23\nNDK_OUT\u003d/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/build/intermediates/ndkBuild/phoneDebug/obj\nNDK_LIBS_OUT\u003d/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/build/intermediates/ndkBuild/phoneDebug/lib\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
+    "file": "/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/src/phone/jni/Android.mk",
+    "tag": "phoneDebug|x86",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "parse and convert ndk-build output to build configuration JSON",
+    "file": "/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/src/phone/jni/Android.mk",
+    "tag": "phoneDebug|x86",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "found application make file /home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/src/phone/jni/Application.mk",
+    "file": "/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/src/phone/jni/Android.mk",
+    "tag": "phoneDebug|x86",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing ndkBuild",
+    "file": "/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/src/phone/jni/Android.mk",
+    "tag": "phoneDebug|x86",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file /home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/.cxx/ndkBuild/phoneDebug/x86/build_command.txt",
+    "file": "/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/src/phone/jni/Android.mk",
     "tag": "phoneDebug|x86",
     "diagnosticCode": "UNKNOWN"
   },
   {
     "level": "INFO",
     "message": "JSON generation completed without problems",
-    "file": "/home/hayade/project/VBK-talkback/braille/translate/src/phone/jni/Android.mk",
+    "file": "/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/src/phone/jni/Android.mk",
     "tag": "phoneDebug|x86",
     "diagnosticCode": "UNKNOWN"
   }

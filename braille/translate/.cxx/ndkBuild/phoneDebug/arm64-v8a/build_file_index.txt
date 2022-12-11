@@ -1,2 +1,2 @@
-/home/hayade/project/VBK-talkback/braille/translate/src/phone/jni/Android.mk
-/home/hayade/project/VBK-talkback/braille/translate/src/phone/jni/Application.mk
+/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/src/phone/jni/Android.mk
+/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/src/phone/jni/Application.mk

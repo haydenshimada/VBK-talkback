@@ -12,7 +12,6 @@
 /uiunderstanding/build/
 /utils/build/
 
-build/
 .git/
 .idea/
 .tmp/

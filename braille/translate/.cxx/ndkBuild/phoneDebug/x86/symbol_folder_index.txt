@@ -1,1 +1,1 @@
-/home/hayade/project/VBK-talkback/braille/translate/build/intermediates/ndkBuild/phoneDebug/obj/local/x86
+/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/build/intermediates/ndkBuild/phoneDebug/obj/local/x86

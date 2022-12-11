@@ -6,37 +6,34 @@
     "deprecated": false,
     "default": true
   },
-  "originalCxxBuildFolder": "/home/hayade/project/VBK-talkback/braille/translate/.cxx/ndkBuild/phoneDebug/arm64-v8a",
-  "cxxBuildFolder": "/home/hayade/project/VBK-talkback/braille/translate/.cxx/ndkBuild/phoneDebug/arm64-v8a",
+  "originalCxxBuildFolder": "/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/.cxx/ndkBuild/phoneDebug/arm64-v8a",
+  "cxxBuildFolder": "/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/.cxx/ndkBuild/phoneDebug/arm64-v8a",
   "abiPlatformVersion": 23,
   "variant": {
     "buildSystemArgumentList": [],
     "cFlagsList": [],
     "cppFlagsList": [],
     "variantName": "phoneDebug",
-    "objFolder": "/home/hayade/project/VBK-talkback/braille/translate/build/intermediates/ndkBuild/phoneDebug/obj/local",
-    "soFolder": "/home/hayade/project/VBK-talkback/braille/translate/build/intermediates/ndkBuild/phoneDebug/lib",
+    "objFolder": "/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/build/intermediates/ndkBuild/phoneDebug/obj/local",
+    "soFolder": "/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/build/intermediates/ndkBuild/phoneDebug/lib",
     "isDebuggableEnabled": true,
     "validAbiList": [
-      "ARMEABI_V7A",
-      "ARM64_V8A",
-      "X86",
-      "X86_64"
+      "ARM64_V8A"
     ],
     "buildTargetSet": [],
     "implicitBuildTargetSet": [],
     "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
     "module": {
-      "cxxFolder": "/home/hayade/project/VBK-talkback/braille/translate/.cxx",
+      "cxxFolder": "/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/.cxx",
       "splitsAbiFilterSet": [],
-      "intermediatesFolder": "/home/hayade/project/VBK-talkback/braille/translate/build/intermediates",
+      "intermediatesFolder": "/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/build/intermediates",
       "gradleModulePathName": ":brailletranslate",
-      "moduleRootFolder": "/home/hayade/project/VBK-talkback/braille/translate",
-      "moduleBuildFile": "/home/hayade/project/VBK-talkback/braille/translate/build.gradle",
-      "makeFile": "/home/hayade/project/VBK-talkback/braille/translate/src/phone/jni/Android.mk",
+      "moduleRootFolder": "/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate",
+      "moduleBuildFile": "/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/build.gradle",
+      "makeFile": "/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/src/phone/jni/Android.mk",
       "buildSystem": "NDK_BUILD",
-      "ndkFolder": "/home/hayade/Android/Sdk/ndk/20.1.5948944",
-      "ndkVersion": "20.1.5948944",
+      "ndkFolder": "/home/thivux/Android/Sdk/ndk/21.4.7075529",
+      "ndkVersion": "21.4.7075529",
       "ndkSupportedAbiList": [
         "ARMEABI_V7A",
         "ARM64_V8A",
@@ -52,7 +49,7 @@
       "ndkDefaultStl": "SYSTEM",
       "ndkMetaPlatforms": {
         "min": 16,
-        "max": 29,
+        "max": 30,
         "aliases": {
           "20": 19,
           "25": 24,
@@ -68,7 +65,8 @@
           "O": 26,
           "O-MR1": 27,
           "P": 28,
-          "Q": 29
+          "Q": 29,
+          "R": 30
         }
       },
       "ndkMetaAbiList": [
@@ -97,36 +95,37 @@
           "default": true
         }
       ],
-      "originalCmakeToolchainFile": "/home/hayade/Android/Sdk/ndk/20.1.5948944/build/cmake/android.toolchain.cmake",
-      "cmakeToolchainFile": "/home/hayade/Android/Sdk/ndk/20.1.5948944/build/cmake/android.toolchain.cmake",
+      "originalCmakeToolchainFile": "/home/thivux/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
+      "cmakeToolchainFile": "/home/thivux/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
       "stlSharedObjectMap": {
         "LIBCXX_SHARED": {
-          "ARMEABI_V7A": "/home/hayade/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
-          "ARM64_V8A": "/home/hayade/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
-          "X86": "/home/hayade/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
-          "X86_64": "/home/hayade/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+          "ARMEABI_V7A": "/home/thivux/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
+          "ARM64_V8A": "/home/thivux/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+          "X86": "/home/thivux/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+          "X86_64": "/home/thivux/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
         },
         "LIBCXX_STATIC": {},
         "NONE": {},
         "SYSTEM": {}
       },
       "project": {
-        "rootBuildGradleFolder": "/home/hayade/project/VBK-talkback",
-        "cxxFolder": "/home/hayade/project/VBK-talkback/.cxx",
-        "compilerSettingsCacheFolder": "/home/hayade/project/VBK-talkback/.cxx",
-        "sdkFolder": "/home/hayade/Android/Sdk",
+        "rootBuildGradleFolder": "/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback",
+        "cxxFolder": "/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/.cxx",
+        "compilerSettingsCacheFolder": "/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/.cxx",
+        "sdkFolder": "/home/thivux/Android/Sdk",
         "isNativeCompilerSettingsCacheEnabled": false,
         "isBuildOnlyTargetAbiEnabled": true,
+        "ideBuildTargetAbi": "arm64-v8a,armeabi-v7a,armeabi",
         "isCmakeBuildCohabitationEnabled": false,
         "isPrefabEnabled": false,
         "isV2NativeModelEnabled": true
       },
       "nativeBuildOutputLevel": "QUIET"
     },
-    "prefabDirectory": "/home/hayade/project/VBK-talkback/braille/translate/.cxx/ndkBuild/phoneDebug/prefab"
+    "prefabDirectory": "/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/.cxx/ndkBuild/phoneDebug/prefab"
   },
   "buildSettings": {
     "environmentVariables": []
   },
-  "prefabFolder": "/home/hayade/project/VBK-talkback/braille/translate/.cxx/ndkBuild/phoneDebug/prefab/arm64-v8a"
+  "prefabFolder": "/home/thivux/cs/sem5/human-computer-interaction/VBK-talkback/braille/translate/.cxx/ndkBuild/phoneDebug/prefab/arm64-v8a"
 }

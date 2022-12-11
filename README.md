@@ -1,20 +1,25 @@
-# Introduction
+# Giới thiệu
+Ứng dụng gõ chữ nổi tiếng Việt cho người mù và khiếm thị. 
 
-This repository contains source code for Google's TalkBack, which is a screen
-reader for blind and visually-impaired users of Android. For usage instructions,
-see
-[TalkBack User Guide](https://support.google.com/accessibility/android/answer/6283677?hl=en).
+# Cách cài đặt
+## Cài đặt từ file apk 
+Tải file [apk](build/outputs/apk/phone/debug/VBK-talkback-main-phone-debug.apk) về điện thoại và cài đặt.
+Khi bị cảnh báo nguy hiểm thì chọn tiếp tục cài đặt. 
 
-### How to Build
+## Xây dựng từ source code 
+Cài đặt môi trường với 
+- Android SDK Platform 31
+- Java 11
 
-To build TalkBack, run ./build.sh, which will produce an apk file.
+Xây dựng ứng dụng trên Android Studio. 
 
-### How to Install
+# Cách sử dụng
 
-Install the apk onto your Android device in the usual manner using adb.
+Sau khi cài đặt ứng dụng, người dùng có thể vào phần cài đặt danh sách bàn phím và bật bàn phím chữ nổi
+với tên Talkback braille keyboard. 
 
-### How to Run
+Sau đó vào Cài đặt -> Tiện ích (accessibility), tìm app với tên Talkback_VBK
+trong danh sách các ứng dụng đã được cài đặt và bật lên để bắt đầu sử dụng.
 
-With the apk now installed on the device, the TalkBack service should now be
-present under Settings -> Accessibility, and will be off by default. To turn it
-on, toggle the switch preference to the on position.
+
+
