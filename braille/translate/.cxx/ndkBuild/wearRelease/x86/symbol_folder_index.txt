@@ -1,0 +1,1 @@
+/home/hayade/project/VBK-talkback/braille/translate/build/intermediates/ndkBuild/wearRelease/obj/local/x86

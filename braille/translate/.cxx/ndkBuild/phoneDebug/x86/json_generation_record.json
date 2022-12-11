@@ -1,0 +1,23 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 23 min SDK version: x86",
+    "file": "/home/hayade/project/VBK-talkback/braille/translate/src/phone/jni/Android.mk",
+    "tag": "phoneDebug|x86",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON \u0027/home/hayade/project/VBK-talkback/braille/translate/.cxx/ndkBuild/phoneDebug/x86/android_gradle_build.json\u0027 was up-to-date",
+    "file": "/home/hayade/project/VBK-talkback/braille/translate/src/phone/jni/Android.mk",
+    "tag": "phoneDebug|x86",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "/home/hayade/project/VBK-talkback/braille/translate/src/phone/jni/Android.mk",
+    "tag": "phoneDebug|x86",
+    "diagnosticCode": "UNKNOWN"
+  }
+]

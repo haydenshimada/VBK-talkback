@@ -1,0 +1,9 @@
+{
+  "ndkDirProperty": "/home/hayade/Android/Sdk/ndk/20.1.5948944",
+  "sdkFolder": "/home/hayade/Android/Sdk",
+  "sideBySideNdkFolderNames": [
+    "21.4.7075529",
+    "20.1.5948944",
+    "20.0.5594570"
+  ]
+}

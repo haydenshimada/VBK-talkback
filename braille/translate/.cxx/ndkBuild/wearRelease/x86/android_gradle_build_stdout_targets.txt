@@ -1,0 +1,3 @@
+make: Nothing to be done for `louis'.
+[x86] Prebuilt       : libc++_shared.so <= <NDK>/sources/cxx-stl/llvm-libc++/libs/x86/
+[x86] SharedLibrary  : liblouiswrap.so

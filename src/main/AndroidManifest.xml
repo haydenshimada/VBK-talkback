@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.talkback"
+    >
+
+  <!-- Strings with the format ${foo}, such as ${applicationId}, are called
+  placeholders, and they get replaced by the build system with the appropriate
+  value when a build executes.
+  -->
+
+  <!-- Permission used to restrict sending gestures and resuming feedback. -->
+  <permission
+      android:name="${talkbackMainPermission}"
+      android:description="@string/permission_talkback_desc"
+      android:icon="@drawable/icon"
+      android:label="@string/permission_talkback_label"
+      android:protectionLevel="signature" />
+
+  <!-- Required for shortcuts and widgets. -->
+  <uses-permission android:name="${talkbackMainPermission}" />
+
+</manifest>

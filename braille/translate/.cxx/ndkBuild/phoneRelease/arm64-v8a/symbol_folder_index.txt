@@ -1,0 +1,1 @@
+/home/hayade/project/VBK-talkback/braille/translate/build/intermediates/ndkBuild/phoneRelease/obj/local/arm64-v8a

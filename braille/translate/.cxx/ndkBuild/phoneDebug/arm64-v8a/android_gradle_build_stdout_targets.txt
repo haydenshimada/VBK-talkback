@@ -1,0 +1,13 @@
+[arm64-v8a] Compile        : louis <= compileTranslationTable.c
+[arm64-v8a] Compile        : louis <= logging.c
+[arm64-v8a] Compile        : louis <= lou_backTranslateString.c
+[arm64-v8a] Compile        : louis <= lou_translateString.c
+[arm64-v8a] Compile        : louis <= commonTranslationFunctions.c
+[arm64-v8a] Compile        : louis <= maketable.c
+[arm64-v8a] Compile        : louis <= metadata.c
+[arm64-v8a] Compile        : louis <= pattern.c
+[arm64-v8a] Compile        : louis <= utils.c
+[arm64-v8a] SharedLibrary  : liblouis.so
+[arm64-v8a] Compile++      : louiswrap <= louis_translation.cc
+[arm64-v8a] Prebuilt       : libc++_shared.so <= <NDK>/sources/cxx-stl/llvm-libc++/libs/arm64-v8a/
+[arm64-v8a] SharedLibrary  : liblouiswrap.so

@@ -1,0 +1,14 @@
+apply plugin: 'com.android.library'
+apply from: "../shared.gradle"
+
+
+dependencies {
+    implementation project(':proguard')
+    implementation project(':uiunderstanding')
+}
+
+android {
+    defaultConfig {
+        buildConfigField("String", "TALKBACK_APPLICATION_ID", '"' + talkbackApplicationId + '"')
+    }
+}

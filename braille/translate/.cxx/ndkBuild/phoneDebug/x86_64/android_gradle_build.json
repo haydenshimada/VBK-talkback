@@ -1,0 +1,86 @@
+{
+  "buildFiles": [
+    "/home/hayade/project/VBK-talkback/braille/translate/src/phone/jni/Android.mk",
+    "/home/hayade/project/VBK-talkback/braille/translate/src/phone/jni/Application.mk"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/hayade/Android/Sdk/ndk/20.1.5948944/ndk-build",
+      "NDK_PROJECT_PATH\u003dnull",
+      "APP_BUILD_SCRIPT\u003d/home/hayade/project/VBK-talkback/braille/translate/src/phone/jni/Android.mk",
+      "NDK_APPLICATION_MK\u003d/home/hayade/project/VBK-talkback/braille/translate/src/phone/jni/Application.mk",
+      "APP_ABI\u003dx86_64",
+      "NDK_ALL_ABIS\u003dx86_64",
+      "NDK_DEBUG\u003d1",
+      "APP_PLATFORM\u003dandroid-23",
+      "NDK_OUT\u003d/home/hayade/project/VBK-talkback/braille/translate/build/intermediates/ndkBuild/phoneDebug/obj",
+      "NDK_LIBS_OUT\u003d/home/hayade/project/VBK-talkback/braille/translate/build/intermediates/ndkBuild/phoneDebug/lib",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/hayade/Android/Sdk/ndk/20.1.5948944/ndk-build",
+    "NDK_PROJECT_PATH\u003dnull",
+    "APP_BUILD_SCRIPT\u003d/home/hayade/project/VBK-talkback/braille/translate/src/phone/jni/Android.mk",
+    "NDK_APPLICATION_MK\u003d/home/hayade/project/VBK-talkback/braille/translate/src/phone/jni/Application.mk",
+    "APP_ABI\u003dx86_64",
+    "NDK_ALL_ABIS\u003dx86_64",
+    "NDK_DEBUG\u003d1",
+    "APP_PLATFORM\u003dandroid-23",
+    "NDK_OUT\u003d/home/hayade/project/VBK-talkback/braille/translate/build/intermediates/ndkBuild/phoneDebug/obj",
+    "NDK_LIBS_OUT\u003d/home/hayade/project/VBK-talkback/braille/translate/build/intermediates/ndkBuild/phoneDebug/lib",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "louiswrap-phoneDebug-x86_64": {
+      "buildCommandComponents": [
+        "/home/hayade/Android/Sdk/ndk/20.1.5948944/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/home/hayade/project/VBK-talkback/braille/translate/src/phone/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/home/hayade/project/VBK-talkback/braille/translate/src/phone/jni/Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-23",
+        "NDK_OUT\u003d/home/hayade/project/VBK-talkback/braille/translate/build/intermediates/ndkBuild/phoneDebug/obj",
+        "NDK_LIBS_OUT\u003d/home/hayade/project/VBK-talkback/braille/translate/build/intermediates/ndkBuild/phoneDebug/lib",
+        "/home/hayade/project/VBK-talkback/braille/translate/build/intermediates/ndkBuild/phoneDebug/obj/local/x86_64/liblouiswrap.so"
+      ],
+      "toolchain": "toolchain-x86_64",
+      "abi": "x86_64",
+      "artifactName": "louiswrap",
+      "output": "/home/hayade/project/VBK-talkback/braille/translate/build/intermediates/ndkBuild/phoneDebug/obj/local/x86_64/liblouiswrap.so"
+    },
+    "louis-phoneDebug-x86_64": {
+      "buildCommandComponents": [
+        "/home/hayade/Android/Sdk/ndk/20.1.5948944/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/home/hayade/project/VBK-talkback/braille/translate/src/phone/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/home/hayade/project/VBK-talkback/braille/translate/src/phone/jni/Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-23",
+        "NDK_OUT\u003d/home/hayade/project/VBK-talkback/braille/translate/build/intermediates/ndkBuild/phoneDebug/obj",
+        "NDK_LIBS_OUT\u003d/home/hayade/project/VBK-talkback/braille/translate/build/intermediates/ndkBuild/phoneDebug/lib",
+        "/home/hayade/project/VBK-talkback/braille/translate/build/intermediates/ndkBuild/phoneDebug/obj/local/x86_64/liblouis.so"
+      ],
+      "toolchain": "toolchain-x86_64",
+      "abi": "x86_64",
+      "artifactName": "louis",
+      "output": "/home/hayade/project/VBK-talkback/braille/translate/build/intermediates/ndkBuild/phoneDebug/obj/local/x86_64/liblouis.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-x86_64": {
+      "cCompilerExecutable": "/home/hayade/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+      "cppCompilerExecutable": "/home/hayade/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cc"
+  ]
+}

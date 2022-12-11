@@ -1,0 +1,132 @@
+{
+  "abi": "X86",
+  "info": {
+    "abi": "X86",
+    "bitness": 32,
+    "deprecated": false,
+    "default": true
+  },
+  "originalCxxBuildFolder": "/home/hayade/project/VBK-talkback/braille/translate/.cxx/ndkBuild/wearDebug/x86",
+  "cxxBuildFolder": "/home/hayade/project/VBK-talkback/braille/translate/.cxx/ndkBuild/wearDebug/x86",
+  "abiPlatformVersion": 23,
+  "variant": {
+    "buildSystemArgumentList": [],
+    "cFlagsList": [],
+    "cppFlagsList": [],
+    "variantName": "wearDebug",
+    "objFolder": "/home/hayade/project/VBK-talkback/braille/translate/build/intermediates/ndkBuild/wearDebug/obj/local",
+    "soFolder": "/home/hayade/project/VBK-talkback/braille/translate/build/intermediates/ndkBuild/wearDebug/lib",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": [],
+    "implicitBuildTargetSet": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "module": {
+      "cxxFolder": "/home/hayade/project/VBK-talkback/braille/translate/.cxx",
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/home/hayade/project/VBK-talkback/braille/translate/build/intermediates",
+      "gradleModulePathName": ":brailletranslate",
+      "moduleRootFolder": "/home/hayade/project/VBK-talkback/braille/translate",
+      "moduleBuildFile": "/home/hayade/project/VBK-talkback/braille/translate/build.gradle",
+      "makeFile": "/home/hayade/project/VBK-talkback/braille/translate/src/phone/jni/Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "ndkFolder": "/home/hayade/Android/Sdk/ndk/20.1.5948944",
+      "ndkVersion": "20.1.5948944",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "SYSTEM",
+      "ndkMetaPlatforms": {
+        "min": 16,
+        "max": 29,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29
+        }
+      },
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "originalCmakeToolchainFile": "/home/hayade/Android/Sdk/ndk/20.1.5948944/build/cmake/android.toolchain.cmake",
+      "cmakeToolchainFile": "/home/hayade/Android/Sdk/ndk/20.1.5948944/build/cmake/android.toolchain.cmake",
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "/home/hayade/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
+          "ARM64_V8A": "/home/hayade/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+          "X86": "/home/hayade/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+          "X86_64": "/home/hayade/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      },
+      "project": {
+        "rootBuildGradleFolder": "/home/hayade/project/VBK-talkback",
+        "cxxFolder": "/home/hayade/project/VBK-talkback/.cxx",
+        "compilerSettingsCacheFolder": "/home/hayade/project/VBK-talkback/.cxx",
+        "sdkFolder": "/home/hayade/Android/Sdk",
+        "isNativeCompilerSettingsCacheEnabled": false,
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isPrefabEnabled": false,
+        "isV2NativeModelEnabled": true
+      },
+      "nativeBuildOutputLevel": "QUIET"
+    },
+    "prefabDirectory": "/home/hayade/project/VBK-talkback/braille/translate/.cxx/ndkBuild/wearDebug/prefab"
+  },
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "prefabFolder": "/home/hayade/project/VBK-talkback/braille/translate/.cxx/ndkBuild/wearDebug/prefab/x86"
+}

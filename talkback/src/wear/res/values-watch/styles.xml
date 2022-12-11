@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TalkBackSettings" parent="@style/Theme.AppCompat.NoActionBar">
+        <item name="android:background">@color/google_black</item>
+        <item name="alertDialogTheme">@style/A11yAlertDialogTheme</item>
+        <item name="android:textViewStyle">@style/WearTextView</item>
+    </style>
+    <style name="PreferenceTheme" parent="@android:style/Theme.DeviceDefault.Settings">
+        <item name="switchPreferenceStyle">@style/Preference.SwitchPreference.Material</item>
+    </style>
+    <style name="WearTextView" parent="@android:style/Widget.TextView">
+        <item name="android:hyphenationFrequency">full</item>
+    </style>
+</resources>
