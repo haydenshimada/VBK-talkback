@@ -5,7 +5,6 @@
 /braille/common/build/
 /braille/interfaces/build/
 /braille/translate/build/
-/build/
 /compositor/build/
 /proguard/build/
 /talkback/build/
