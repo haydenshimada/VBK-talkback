@@ -3,7 +3,7 @@
 
 # Cách cài đặt
 ## Cài đặt từ file apk 
-Tải file [apk](build/outputs/apk/phone/debug/VBK-talkback-main-phone-debug.apk) về điện thoại và cài đặt.
+Tải file [apk](https://github.com/haydenshimada/VBK-talkback/tree/main/build/outputs/apk/phone/debug) về điện thoại và cài đặt.
 Khi bị cảnh báo nguy hiểm thì chọn tiếp tục cài đặt. 
 
 ## Xây dựng từ source code 
